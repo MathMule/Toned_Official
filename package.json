@@ -1,0 +1,6 @@
+{
+  "name": "toned",
+  "version": "1.0.0",
+  "description": "AI-powered sheet music generator",
+  "private": true
+}
